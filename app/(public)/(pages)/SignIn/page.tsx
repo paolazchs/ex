@@ -17,7 +17,7 @@ export default function SignIn() {
   return (
     <main className={mainContainer()}>
       <div className={imagemContainer()}>
-        <img src="/assets/logoLogin.png" alt="Logo" width={600} />
+        <img src="/assets/logoLogin.png" alt="Logo" width={500} />
       </div>
 
       <div className={formContainer()}>
